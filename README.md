@@ -14,12 +14,6 @@ I'm Ian — a digital marketer working at the frontier of macromarketing, channe
 
 **Private Repository – Access Controlled**  
 Agent-based evolutionary game model of channel governance in marketing systems.
-
-- Network-based simulation of firms, intermediaries, and agents
-- Endogenous emergence of coordination and conflict dynamics
-- Cost structures modeled across distributed transaction layers
-- Governance regimes tested for equilibrium behavior and stability
-
 Access upon request → LinkedIn or GitHub
 
 ---
