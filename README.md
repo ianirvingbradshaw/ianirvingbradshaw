@@ -1,7 +1,7 @@
 # Hi there! 
 
 ## 🚀 About Me
-I'm Ian — a digital marketer focused on macromarketing, channel eco-systems, AI, climate change, and healthcare.
+I'm Ian — a digital marketer working at the frontier of macromarketing, channel ecosystems, and simulation-driven analysis of market structure using real-world data.
 
 ---
 
@@ -25,6 +25,20 @@ Access upon request → LinkedIn or GitHub
 ---
 
 ## 🛠️ Skills
+
+### Marketing Technology
+![HubSpot](https://img.shields.io/badge/HubSpot-orange?style=for-the-badge&logo=hubspot)
+![GA4](https://img.shields.io/badge/Google_Analytics_4-orange?style=for-the-badge&logo=google-analytics)
+![BigQuery](https://img.shields.io/badge/BigQuery-blue?style=for-the-badge&logo=google-bigquery)
+![WordPress](https://img.shields.io/badge/WordPress-blue?style=for-the-badge&logo=wordpress)
+![Adobe](https://img.shields.io/badge/Adobe_Creative_Cloud-red?style=for-the-badge&logo=adobe)
+![LiveRamp](https://img.shields.io/badge/LiveRamp-darkblue?style=for-the-badge)
+
+- CRM and lifecycle management (HubSpot)
+- Analytics and event tracking (GA4 → BigQuery pipelines)
+- Identity resolution and data onboarding (LiveRamp)
+- CMS and content infrastructure (WordPress)
+- Creative production workflows (Adobe Creative Cloud)
 
 ### Infrastructure
 ![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
