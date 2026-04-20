@@ -13,6 +13,7 @@ I'm Ian — a digital marketer working at the frontier of macromarketing, channe
 ## 🔍 Selected Work
 
 **Private Repository – Access Controlled**  
+
 Agent-based evolutionary game model of channel governance in marketing systems.
 
 Access upon request → LinkedIn or GitHub
