@@ -45,11 +45,13 @@ Access upon request → LinkedIn or GitHub
 ![Databricks](https://img.shields.io/badge/Databricks-Delta_Lake-orange?style=for-the-badge&logo=databricks)
 
 - Netlify for deployment and hosting of the simulation interface
+- Netlify Functions for lightweight request routing, preview endpoints, and calls into the backend API
 - Neon (serverless Postgres) for lightweight app state, scenario metadata, and user-facing run records
 - Azure Data Lake Storage Gen2 as the storage foundation for raw, bronze, silver, and gold data layers
 - Delta Lake over Parquet for versioned lakehouse tables, schema evolution, and reproducible simulation outputs
 - Microsoft Fabric for transformation pipelines, lakehouse orchestration, and SQL-accessible analytical views
-- Databricks compatibility maintained for Delta Lake workflows where advanced Spark/lakehouse tooling is needed
+- Databricks-compatible Delta workflows for advanced Spark/lakehouse execution where needed
+- FastAPI service layer for stable UI ViewModels and controlled access to Fabric/Databricks outputs
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
