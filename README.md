@@ -39,11 +39,17 @@ Access upon request → LinkedIn or GitHub
 ### Infrastructure
 ![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
 ![Neon](https://img.shields.io/badge/Neon-Postgres-black?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-Blob_Storage-blue?style=for-the-badge&logo=microsoft-azure)
+![Azure Data Lake](https://img.shields.io/badge/Azure-Data_Lake_Storage_Gen2-blue?style=for-the-badge&logo=microsoft-azure)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-Parquet-black?style=for-the-badge)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-Lakehouse-blue?style=for-the-badge&logo=microsoft)
+![Databricks](https://img.shields.io/badge/Databricks-Delta_Lake-orange?style=for-the-badge&logo=databricks)
 
 - Netlify for deployment and hosting of the simulation interface
-- Neon (serverless Postgres) for simulation state persistence and run data storage
-- Azure Blob Storage (in progress) for Monte Carlo workload offloading and large-run storage
+- Neon (serverless Postgres) for lightweight app state, scenario metadata, and user-facing run records
+- Azure Data Lake Storage Gen2 as the storage foundation for raw, bronze, silver, and gold data layers
+- Delta Lake over Parquet for versioned lakehouse tables, schema evolution, and reproducible simulation outputs
+- Microsoft Fabric for transformation pipelines, lakehouse orchestration, and SQL-accessible analytical views
+- Databricks compatibility maintained for Delta Lake workflows where advanced Spark/lakehouse tooling is needed
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
