@@ -40,7 +40,6 @@ Access upon request → LinkedIn or GitHub
 ![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
 ![Neon](https://img.shields.io/badge/Neon-Postgres-black?style=for-the-badge)
 ![Azure Data Lake](https://img.shields.io/badge/Azure-Data_Lake_Storage_Gen2-blue?style=for-the-badge&logo=microsoft-azure)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-Parquet-black?style=for-the-badge)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-Lakehouse-blue?style=for-the-badge&logo=microsoft)
 ![Databricks](https://img.shields.io/badge/Databricks-Delta_Lake-orange?style=for-the-badge&logo=databricks)
 
